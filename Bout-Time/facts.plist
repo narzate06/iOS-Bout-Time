@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Revelation</key>
+	<dict>
+		<key>year</key>
+		<integer>96</integer>
+	</dict>
+	<key>Jude</key>
+	<dict>
+		<key>year</key>
+		<integer>65</integer>
+	</dict>
+	<key>3 John</key>
+	<dict>
+		<key>year</key>
+		<integer>98</integer>
+	</dict>
+	<key>2 John</key>
+	<dict>
+		<key>year</key>
+		<integer>98</integer>
+	</dict>
+	<key>1 John</key>
+	<dict>
+		<key>year</key>
+		<integer>98</integer>
+	</dict>
+	<key>2 Peter</key>
+	<dict>
+		<key>year</key>
+		<integer>64</integer>
+	</dict>
+	<key>1 Peter</key>
+	<dict>
+		<key>year</key>
+		<integer>64</integer>
+	</dict>
+	<key>James</key>
+	<dict>
+		<key>year</key>
+		<integer>62</integer>
+	</dict>
+	<key>Hebrews</key>
+	<dict>
+		<key>year</key>
+		<integer>61</integer>
+	</dict>
+	<key>Philemon</key>
+	<dict>
+		<key>year</key>
+		<integer>61</integer>
+	</dict>
+	<key>Titus</key>
+	<dict>
+		<key>year</key>
+		<integer>64</integer>
+	</dict>
+	<key>2 Timothy</key>
+	<dict>
+		<key>year</key>
+		<integer>65</integer>
+	</dict>
+	<key>1 Timothy</key>
+	<dict>
+		<key>year</key>
+		<integer>64</integer>
+	</dict>
+	<key>2 Thessalonians</key>
+	<dict>
+		<key>year</key>
+		<integer>51</integer>
+	</dict>
+	<key>1 Thessalonians</key>
+	<dict>
+		<key>year</key>
+		<integer>50</integer>
+	</dict>
+	<key>Colossians</key>
+	<dict>
+		<key>year</key>
+		<integer>61</integer>
+	</dict>
+	<key>Philippians</key>
+	<dict>
+		<key>year</key>
+		<integer>61</integer>
+	</dict>
+	<key>Ephesians</key>
+	<dict>
+		<key>year</key>
+		<integer>61</integer>
+	</dict>
+	<key>Galatians</key>
+	<dict>
+		<key>year</key>
+		<integer>52</integer>
+	</dict>
+	<key>2 Corinthians</key>
+	<dict>
+		<key>year</key>
+		<integer>55</integer>
+	</dict>
+	<key>1 Corinthians</key>
+	<dict>
+		<key>year</key>
+		<integer>55</integer>
+	</dict>
+	<key>Romans</key>
+	<dict>
+		<key>year</key>
+		<integer>56</integer>
+	</dict>
+	<key>Acts</key>
+	<dict>
+		<key>year</key>
+		<integer>61</integer>
+	</dict>
+	<key>John</key>
+	<dict>
+		<key>year</key>
+		<integer>98</integer>
+	</dict>
+	<key>Luke</key>
+	<dict>
+		<key>year</key>
+		<integer>58</integer>
+	</dict>
+	<key>Mark</key>
+	<dict>
+		<key>year</key>
+		<integer>65</integer>
+	</dict>
+	<key>Matthew</key>
+	<dict>
+		<key>year</key>
+		<integer>41</integer>
+	</dict>
+</dict>
+</plist>
